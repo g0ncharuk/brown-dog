@@ -1,0 +1,29 @@
+== Changelog ==
+
+v1.0.7
+--Search button border fix
+--Layout Width 1170px product category box width fix
+
+v1.0.6
+--Added sanitization fixes
+--Added Line Awesome icons
+
+v1.0.5
+--Bug fixes
+--Sidebar list item underline css fix
+
+v1.0.4
+--Category page heading alignment fix
+
+v1.0.3
+--Elementor Heading elements spacing fix
+
+v1.0.2
+--CSS fixes
+
+v1.0.1
+--Added Gutenberg Compatibility
+--CSS fixes
+
+v1.0.0
+--initial release
